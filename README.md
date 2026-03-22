@@ -1,3 +1,6 @@
+## Lean Link
+http://3.146.241.103/
+
 ## Running with Docker locally
 
 docker-compose up --build
